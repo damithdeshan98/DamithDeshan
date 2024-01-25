@@ -44,6 +44,6 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=damithdeshan&show_icons=true&locale=en&layout=compact" alt="damithdeshan" /></p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=damithdeshan&show_icons=true&locale=en" alt="damithdeshan" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=damithdeshan&show_icons=true&locale=en" alt="damithdeshan" />&nbsp;
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damithdeshan&" alt="damithdeshan" />
 </p>
