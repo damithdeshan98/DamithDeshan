@@ -2,7 +2,6 @@
 <h3 align="center">I'm H.K. Damith Deshan, a Full-Stack Developer based in Matara. Welcome to my GitHub profile!
 </h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damithdeshan&label=Profile%20views&color=0e75b6&style=flat" alt="damithdeshan" /> </p>
 
 - 🌱 I’m currently learning **JSF, MERN Stact**
