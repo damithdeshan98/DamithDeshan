@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damithdeshan&label=Profile%20views&color=0e75b6&style=flat" alt="damithdeshan" /> </p>
 
 - 🌱 I’m currently learning **JSF, MERN stack**
-- 👨‍💻 All of my projects are available at [H.K. Damith Deshan](https://github.com/DamithDeshan)
+- 👨‍💻 All of my projects are available at [H.K. Damith Deshan] (https://github.com/DamithDeshan)
 - 📫 You can contact me at hkddrajapaksha@gmail.com .
 
 <h3 align="left">Connect with me:</h3>
@@ -35,17 +35,24 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
 <hr>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damithdeshan" alt="damithdeshan" /></a> </p>
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=damithdeshan" alt="damithdeshan" />
+    </a> 
+</p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=damithdeshan&show_icons=true&locale=en&layout=compact" alt="damithdeshan" /></p>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=damithdeshan&show_icons=true&locale=en" alt="damithdeshan" />&nbsp;
+<p align="center" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=damithdeshan&show_icons=true&locale=en&layout=compact" alt="damithdeshan" />
 </p>
 
 <p align="center">
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damithdeshan&" alt="damithdeshan" />&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=damithdeshan&show_icons=true&locale=en" alt="damithdeshan" />
+    &nbsp;
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damithdeshan&" alt="damithdeshan" />
+    &nbsp;
 </p>
