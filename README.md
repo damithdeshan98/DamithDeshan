@@ -1,12 +1,12 @@
 <h1 align="center" >Hi 👋, </h1> 
 <h3 align="center">I'm H.K. Damith Deshan, a Full-Stack Developer based in Matara. Welcome to my GitHub profile!
-</h3>   
-  
+</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damithdeshan&label=Profile%20views&color=0e75b6&style=flat" alt="damithdeshan" /> </p>
 
 - 🌱 I’m currently learning **JSF, MERN stack** 
 - 👨‍💻 All of my projects are available at [H.K. Damith Deshan] (https://github.com/DamithDeshan)
-- 📫 You can contact me at hkddrajapaksha@gmail.com . 
+- 📫 You can contact me at hkddrajapaksha@gmail.com .
  
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
