@@ -4,8 +4,8 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damithdeshan&label=Profile%20views&color=0e75b6&style=flat" alt="damithdeshan" /> </p>
   
-- 🌱 I’m currently learning **JSF, MERN stack** 
-- 👨‍💻 All of my projects are available at [H.K. Damith Deshan] (https://github.com/DamithDeshan)
+- 🌱 I’m currently learning **JSF, MERN stack**  
+- 👨‍💻 All of my projects are available at [H.K. Damith Deshan] (https://github.com/DamithDeshan) 
 - 📫 You can contact me at hkddrajapaksha@gmail.com .
  
 <h3 align="left">Connect with me:</h3>
