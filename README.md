@@ -1,5 +1,5 @@
 <h1 align="center" >
- <p align="center">Hey Everyone!🕹️</p>
+ <p align="center">Hey Everyone..! 🕹️ </p>
 </h1> 
 
 <h3 align="center">I'm H.K. Damith Deshan, a Full-Stack Developer based in Matara. Welcome to my GitHub profile !</h3> 
