@@ -1,7 +1,5 @@
 <h1 align="center" >
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+ <p align="center">Hey Everyone!🕹️</p>
 </h1> 
 
 <h3 align="center">I'm H.K. Damith Deshan, a Full-Stack Developer based in Matara. Welcome to my GitHub profile !</h3> 
