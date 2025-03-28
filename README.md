@@ -3,7 +3,7 @@
 <h3 align="center">I'm H.K. Damith Deshan, a Full-Stack Developer based in Matara. Welcome to my GitHub profile !</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damithdeshan&label=Profile%20views&color=0e75b6&style=flat" alt="damithdeshan" /> </p>
-
+ 
 - 🌱 I’m currently learning **JSF,Java MERN stack**  
 - 👨‍💻 All of my projects are available at [H.K. Damith Deshan] (https://github.com/DamithDeshan)  
 - 📫 You can contact me at hkddrajapaksha@gmail.com .
@@ -15,7 +15,7 @@
 <a href="https://fb.com/h.k.damith.deshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="h.k.damith.deshan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hkddrajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hkddrajapaksha" height="30" width="40" /></a>
 </p> 
-
+ 
 <h3 align="left">Languages and Tools :</h3>
 <p align="center"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
