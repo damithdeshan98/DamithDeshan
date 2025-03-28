@@ -59,7 +59,4 @@
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damithdeshan&" alt="damithdeshan" />
     &nbsp;
-</p>   
-<p align="center">
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-</p> 
+</p>
