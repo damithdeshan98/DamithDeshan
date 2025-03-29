@@ -8,6 +8,8 @@
   </a>
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damithdeshan&label=Profile%20views&color=0e75b6&style=flat" alt="damithdeshan" /> </p>
  
 - 🌱 I’m currently learning **JSF,Java MERN stack**  
