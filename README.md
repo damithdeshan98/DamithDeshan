@@ -2,7 +2,11 @@
  <p align="center">Hey Everyone..! 🕹️ </p>
 </h1> 
 
-<h3 align="center">I'm H.K. Damith Deshan, a Full-Stack Developer based in Matara. Welcome to my GitHub profile !</h3> 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+H.K.+Damith+Deshan.. &hearts;++;a+Full-Stack+Developer+based+in+Matara.;Welcome+to+my+GitHub+profile..+!">
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damithdeshan&label=Profile%20views&color=0e75b6&style=flat" alt="damithdeshan" /> </p>
  
